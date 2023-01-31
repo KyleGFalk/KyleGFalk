@@ -1,8 +1,8 @@
 ### 
 <ul style=“list-style-type:circle">
-                                  <il> 👋 Hi, I'm Kyle</il>
-                                  <il> 👍 I'm a big fan of SQL, Tableau, Excel, and using these tools to make predictions with data!</il>
-                                  <il> 📫 Reach me at: KyleGFalk@gmail.com</il>
+     <li> 👋 Hi, I'm Kyle</li>
+                                  <li> 👍 I'm a big fan of SQL, Tableau, Excel, and using these tools to make predictions with data!</li>
+                                  <li> 📫 Reach me at: KyleGFalk@gmail.com</li>
                                   </ul>
                                 
 👋 Hi, I'm Kyle
