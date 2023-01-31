@@ -1,4 +1,10 @@
 ### 
+<ul style=“list-style-type:circle">
+                                  <il> 👋 Hi, I'm Kyle</il>
+                                  <il> 👍 I'm a big fan of SQL, Tableau, Excel, and using these tools to make predictions with data!</il>
+                                  <il> 📫 Reach me at: KyleGFalk@gmail.com</il>
+                                  </ul>
+                                
 👋 Hi, I'm Kyle
 👍 I'm a big fan of SQL, Tableau, Excel, and using these tools to make predictions with data!
 📫 Reach me at: KyleGFalk@gmail.com
